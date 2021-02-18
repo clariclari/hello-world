@@ -1,2 +1,4 @@
 # hello-world
-A description... 
+Hi !
+
+My name is Clara and I'm learning Javascript :)  
